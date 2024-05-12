@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center"><span class="hi">Hi there, </span><span class="name">I'm</span> <a class="hi" href="https://github.com/bbarktabasov16" target="_blank">Bekzat</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <!--
 **bbarktabasov16/bbarktabasov16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
