@@ -1,6 +1,14 @@
 <h1 align="center"><span class="hi">Hi there, </span><span class="name">I'm</span> <a class="hi" href="https://github.com/bbarktabasov16" target="_blank">Bekzat</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bbarktabasov16/bbarktabasov16/output/github-contribution-grid-snake-dark.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 ## 📊 My Github Stats
 
 <div style="display: flex; justify-content: center; align-items: center;">
@@ -30,11 +38,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bbarktabasov16/bbarktabasov16/output/github-contribution-grid-snake-dark.svg" />
-  
-  <br/><br/><br/>
-</div>
